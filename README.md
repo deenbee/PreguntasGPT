@@ -32,3 +32,29 @@ Todo, filosofía, Historia, Geografía, Matemáticas, Física, Química.
 10. La interfaz grafica y ventana unica del juego esta echa en "Qt Creator" la misma se llama "mainwindow.ui".
 
 11. Hay que programar la logica y el funcionamiento ya que con ChatGPT no pude hacerlo funcionar.
+
+==============================================================================================
+
+I have an application designed in Qt Creator, which is based on a question and answer game.
+
+We have a "QpushButton" button (objectName: "pushButton_reset") to reset or start the game from the beginning.
+
+We have a "QcomboBox" (objectName: "comboBox_category") for the following categories: All, Philosophy, History, Geography, Mathematics, Physics, Chemistry.
+
+We have a "Qcombobox" (objectName: "comboBox_Difficult") to choose the difficulty level: Easy, Intermediate, Hard, Very hard; in Very hard mode, the time limit is 5 seconds and 500 questions; Hard 8 seconds and 250 questions; Intermediate 12 seconds and 100 questions; Easy 18 seconds and 50 questions.
+
+We have a "QLCDNumber" (objectName: "lcdNumber_displaytime") to display the remaining time to answer the question, depending on the difficulty level.
+
+We also have a "QprogressBar" (objectName: "progressBar") to display the remaining time to answer the question.
+
+The questions are displayed in a "Qlabel" (objectName: "label_Question").
+
+The answers are displayed in another "Qlabel" (objectName: "label_answer").
+
+Remember that random questions must be generated within the game once it starts.
+
+In addition, a total of 25000 questions must be generated, each with an answer.
+
+Then we have a "QpushButton" button (objectName: "pushButton_false") to respond with a false option, and another "QpushButton" (objectName: "pushButton_true") to respond with a true option.
+
+The graphical interface and unique game window are created in "Qt Creator" and it is named "mainwindow.ui".
