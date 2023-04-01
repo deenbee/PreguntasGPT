@@ -33,7 +33,7 @@ Todo, filosofía, Historia, Geografía, Matemáticas, Física, Química.
 
 11. Hay que programar la logica y el funcionamiento ya que con ChatGPT no pude hacerlo funcionar.
 
-==============================================================================================
+===================================================================================
 
 I have an application designed in Qt Creator, which is based on a question and answer game.
 
