@@ -1,0 +1,74 @@
+¿El sol gira alrededor de la tierra?,falso
+¿El agua hierve a 100 grados Celsius?,verdadero
+¿El hielo es más denso que el agua?,falso
+¿La luna tiene luz propia?,falso
+¿El planeta más grande del sistema solar es Júpiter?, verdadero
+¿El color del cielo es verde?, falso
+¿La luna gira alrededor de la Tierra?, verdadero
+¿El ser humano tiene 2 corazones?, falso
+¿El sol es una estrella?, verdadero
+¿Los elefantes pueden saltar?, falso
+¿El año tiene 365 días?, verdadero
+¿El agua es un compuesto químico?, verdadero
+¿El oxígeno es un gas inodoro?, verdadero
+¿La Tierra es el tercer planeta del sistema solar?, verdadero
+¿El ser humano tiene 206 huesos?, verdadero
+¿Las plantas realizan fotosíntesis para producir su alimento?, verdadero
+¿Los huracanes son fenómenos meteorológicos?, verdadero
+¿El sistema nervioso central está formado por el cerebro y la médula espinal?, verdadero
+¿El sistema circulatorio está formado por el corazón, las arterias y las venas?, verdadero
+¿La sangre es un tejido líquido del cuerpo humano?, verdadero
+¿La química es la ciencia que estudia la materia y sus transformaciones?, verdadero
+¿El sistema solar está formado por el sol, los planetas y otros cuerpos celestes?, verdadero
+¿El clima es el conjunto de condiciones meteorológicas que caracterizan una región?, verdadero
+¿La Antártida es el continente más poblado del mundo?, falso
+¿Los humanos pueden respirar bajo el agua sin equipo especial?, falso
+¿El idioma más hablado en el mundo es el esperanto?, falso
+¿La Gran Muralla China es visible desde la luna?, falso
+¿El chocolate se produce a partir de las semillas de las manzanas?, falso
+¿El Monte Everest es el volcán más alto del mundo?, falso
+¿La electricidad es una forma de energía?, verdadero
+¿El arroz es originario de América Latina?, falso
+¿El polo norte magnético es el mismo que el polo norte geográfico?, falso
+¿El oro es un elemento químico líquido a temperatura ambiente?, falso
+¿La Mona Lisa es una escultura de Miguel Ángel?, falso
+¿Los elefantes pueden volar?, falso
+¿El aguacate es una fruta de hueso?, falso
+¿La leche es un alimento rico en calcio?, verdadero
+¿El sistema métrico decimal es el sistema de medidas utilizado en todo el mundo?, falso
+¿El oro es un metal noble?, verdadero
+¿El sol es un planeta?, falso
+¿Los pingüinos viven en el Polo Sur?, falso
+¿Los camellos son animales acuáticos?, falso
+¿Los humanos tienen seis dedos en cada mano?, falso
+¿El número de la bestia es el 6666?, falso
+¿La película "Avatar" es un documental?, falso
+¿Los murciélagos son aves?, falso
+¿El león es el animal más pequeño del mundo?, falso
+¿La Estatua de la Libertad fue construida en Australia?, falso
+¿La Gran Pirámide de Guiza fue construida en el siglo XX?, falso
+¿El Everest se encuentra en la cordillera de los Andes?, falso
+¿La Torre Eiffel fue diseñada por Leonardo da Vinci?, falso
+¿El Tíbet es un país independiente?, falso
+¿El Polo Norte es un continente?, falso
+¿Los átomos son la unidad básica de la materia?, verdadero
+¿El cerebro humano pesa alrededor de 1 kilogramo?, verdadero
+¿Los delfines son mamíferos acuáticos?, verdadero
+¿La Gran Muralla China fue construida por los romanos?, falso
+¿El Sol es una estrella enana roja?, falso
+¿Los delfines son peces?, falso
+¿El idioma más antiguo del mundo es el inglés?, falso
+¿La Gran Esfinge de Giza es un monumento funerario?, falso
+¿Los koalas son marsupiales de Sudamérica?, falso
+¿El río Amazonas es el más corto del mundo?, falso
+¿El Polo Sur es un país?, falso
+¿La velocidad de la luz es de aproximadamente 300.000 kilómetros por segundo?, verdadero
+¿El cuerpo humano necesita vitaminas para funcionar correctamente?, verdadero
+¿El petróleo es un recurso no renovable?, verdadero
+¿La edad de la Tierra se estima en unos 4.600 millones de años?, verdadero
+¿El sistema inmunológico es el encargado de proteger al cuerpo de infecciones y enfermedades?, verdadero
+¿El sistema endocrino es el encargado de producir hormonas?, verdadero
+¿La física es la ciencia que estudia las propiedades de la materia y la energía?, verdadero
+¿La química orgánica es la rama de la química que estudia los compuestos que contienen carbono?, verdadero
+¿El cerebro humano se divide en 2 hemisferios?, verdadero
+¿La sal común es cloruro de sodio?, verdadero
