@@ -1,3 +1,4 @@
+![screen](https://user-images.githubusercontent.com/4615556/229383785-9dad7cab-d584-421b-88f9-d542dc67329e.png)
 # PreguntasGPT
 Tengo una aplicación diseñada en Qt Creator , la misma se basa en un juego de preguntas y respuestas.
 
