@@ -19,10 +19,14 @@ public:
 private slots:
     void on_pushButton_true_clicked();
 
+    void on_pushButton_false_clicked();
+
 private:
     Ui::MainWindow *ui;
     QStringList m_questions;
     QList<bool> m_answers;
+    int currentQuestionIndex; // declarar la variable currentQuestionIndex
+
 };
 
 #endif // MAINWINDOW_H

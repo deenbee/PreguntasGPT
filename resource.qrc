@@ -1,5 +1,7 @@
 <!DOCTYPE RCC><RCC version="1.0">
 <qresource prefix="/">
   <file>imagen/logo.png</file>
+  <file>imagen/t.png</file>
+  <file>preguntas.txt</file>
 </qresource>
 </RCC>
